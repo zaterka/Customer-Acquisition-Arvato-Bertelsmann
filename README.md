@@ -1,4 +1,5 @@
-# Customer-Acquisition-Arvato-Bertelsmann
+# Customer Acquisition-Arvato Bertelsmann
+## Author: Pedro S. H. Zaterka
 
 Final project for the Machine Learning Engineer Nanodegree from Udacity
 
