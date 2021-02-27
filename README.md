@@ -40,3 +40,4 @@ The code requires Python 3.6+ and the following packages:
 - lightgbm
 - catboost
 - imbalanced-learn
+- optuna
